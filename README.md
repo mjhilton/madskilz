@@ -1,5 +1,7 @@
 # Readify Mad Skilz
 
+With some changes
+
 ## Purpose
 - I want to provide a simple breakdown of what I value most about people in Readify in the hope that most of us agree.
 - I want this to read as a either a narrative or as a reference.
